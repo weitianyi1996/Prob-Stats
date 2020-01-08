@@ -1,2 +1,2 @@
 # Prob-Stats
-Review Probablity*Statistics
+Review Probablity & Statistics
